@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b026418d-0c6a-4518-af44-ad107672e81e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/repo/antlr/antlr/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/antlr/antlr/maven-metadata-appassembler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/core/jackson-annotations/maven-metadata-appassembler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/repo/com/fasterxml/jackson/core/jackson-annotations/maven-metadata-appassembler.xml" afterDir="false" />
@@ -109,6 +110,7 @@
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
+      <command value="mvn clean:clean" />
       <command value="mvn clean" />
       <command value="mvn install" />
     </option>
@@ -139,7 +141,8 @@
       <workItem from="1623409025747" duration="757000" />
       <workItem from="1623410755479" duration="499000" />
       <workItem from="1623411636847" duration="132000" />
-      <workItem from="1623413790784" duration="1436000" />
+      <workItem from="1623413790784" duration="2701000" />
+      <workItem from="1623417074150" duration="1341000" />
     </task>
     <servers />
   </component>
